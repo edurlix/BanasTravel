@@ -27,7 +27,7 @@ p {
 
 #banner {
   height: 46rem;
-  background-image: url('camel-background.png');
+  background-image: url('img/camel-background.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
